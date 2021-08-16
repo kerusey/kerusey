@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 ##### How to reach me: 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>](https://t.me/Kerusey)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>](https://discord.com/users/247085487733342208)
+[<code><img height="20" src="https://www.logolynx.com/images/logolynx/90/90dc2910161486ffc8177f9b7adb0840.png"></code>](https://www.linkedin.com/in/keruseyoff/)
